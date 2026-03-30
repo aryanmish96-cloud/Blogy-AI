@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+openai
+spacy
+textstat
+beautifulsoup4
+requests
+pymysql

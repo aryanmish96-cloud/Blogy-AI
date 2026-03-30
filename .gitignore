@@ -1,0 +1,28 @@
+# Blogy AI .gitignore
+
+# Dependencies
+node_modules/
+venv/
+.env
+site-packages/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Next.js / React build
+.next/
+out/
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project-specific junk
+temp_repo*
+blogy.db
+frontend/node_modules/
+backend/__pycache__/
