@@ -97,4 +97,3 @@ Blogy.ai isn't just a content generator; it's a **growth engine**. By bridging t
 
 ---
 
-Built with ❤️ by the Blogy.ai Team.
